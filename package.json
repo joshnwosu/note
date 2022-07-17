@@ -1,5 +1,5 @@
 {
-  "name": "react-native-system-mode",
+  "name": "note",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -38,7 +38,8 @@
     "react-native-swipe-list-view": "^3.2.9",
     "react-native-tab-view": "^3.1.1",
     "react-native-web": "0.17.7",
-    "react-redux": "^8.0.2"
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
